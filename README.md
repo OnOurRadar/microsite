@@ -8,13 +8,13 @@ We recommend looking for a domain with Wordpress Hosting through GoDaddy - throu
 
 Once you are set up and can access your dashboard, please follow the instructions below.
 
-_For users with an exiting site, please export all post and page data via the exporter, as the new site will_ _ **overwrite** _ _existing data for the domain._
+**For users with an exiting site, please export all post and page data via the exporter, as the new site will _overwrite_ existing data for the domain.**
 
 # **Installing the site**
 
-Download a migration plugin[**here**](https://downloads.wordpress.org/plugin/all-in-one-wp-migration.6.77.zip)and install it by uploading it in the Plugins section of the Dashboard.
+Download a migration plugin [**here**](https://downloads.wordpress.org/plugin/all-in-one-wp-migration.6.77.zip) and install it by uploading it in the Plugins section of the Dashboard.
 
-Download the import file for the site [**here**](https://talk-kit.org/wp-content/uploads/2021/09/accessible-microsite.local-20210901-223653-620.wpress).
+Either use the wpress file from this repository or download the import file for the site [**here**](https://talk-kit.org/wp-content/uploads/2021/09/accessible-microsite.local-20210901-223653-620.wpress).
 
 With the migration plug-in installed, you can start the import process to install the site.
 
